@@ -3,6 +3,14 @@ perl-virtualenv
 
 Virtual Environment for Perl
 
+# Goal
+I came from Python world and would like to see the virtual-env virtualenvwrapper functionality brought to the Perl world. I'm guessing i'll be accomplishing this in combination with Perlbrew.
+
+### To Do / Roadmap
+add virtual-env wrapper
+add mkvirtualenv functionality
+port virtualenv shell scripts to work with Perl
+
 Usage
 -----
 
